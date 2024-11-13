@@ -21,7 +21,7 @@ class CustomProduct extends StatelessWidget {
           padding: EdgeInsets.all(16.0),
           child: Column(
             children: [
-              GestureDetector(
+              GestureDetector(///fff
                 onTap: () {
                   Navigator.push(
                     context,
